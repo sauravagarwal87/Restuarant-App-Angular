@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "saurav",
+      "email": "s@gamil.com",
+      "mobile": 123456,
+      "address": "Katihar",
+      "services": "Tea"
+    },
+    {
+      "id": 5,
+      "name": "Mohan",
+      "email": "mkosjo@gamil.com",
+      "mobile": 98994829,
+      "address": "kolkata",
+      "services": "breakfast"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Saurav",
+      "email": "s@gmail.com",
+      "mobile": 90912090,
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "ram",
+      "email": "r@gamil.com",
+      "mobile": 1233,
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "saurav",
+      "email": "Saurav@gmail.com",
+      "mobile": 12345,
+      "password": "0987",
+      "id": 4
+    }
+  ]
+}
